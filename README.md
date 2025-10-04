@@ -54,17 +54,11 @@ cd iptv-stream-tester
 2. **Install dependencies**
 pip install -r requirements.txt
 
-text
-
 3. **Verify FFmpeg installation**
 ffprobe -version
 
-text
-
 4. **Run the application**
 python iptv_tester.py
-
-text
 
 ## 📖 Usage Guide
 
@@ -90,8 +84,6 @@ text
 Server URL: http://your-server.com:8080
 Username: your_username
 Password: your_password
-
-text
 
 2. **Connect and Load**
 - Click "Connect" to authenticate and load channels
@@ -131,8 +123,6 @@ RESOLUTION DISTRIBUTION
 1920x1080: 48 channels (30.8%)
 720x576: 12 channels (7.7%)
 
-text
-
 ### Pie Chart Categories
 - `720p60` - 720p at 60 FPS
 - `1080p30` - 1080p at 30 FPS  
@@ -158,17 +148,11 @@ We welcome contributions! Here's how to get started:
 1. **Fork the repository**
 2. **Create a feature branch**
 git checkout -b feature/amazing-feature
-
-text
 3. **Make your changes**
 4. **Commit with descriptive messages**
 git commit -m 'Add amazing feature'
-
-text
 5. **Push to your branch**
 git push origin feature/amazing-feature
-
-text
 6. **Open a Pull Request**
 
 
