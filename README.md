@@ -15,7 +15,6 @@ A comprehensive Python GUI application for testing and analyzing IPTV stream qua
 - **📁 M3U Playlist Support** - Load from local files or remote URLs
 - **🔐 Xtream Codes Integration** - Direct API authentication and channel loading  
 - **📊 Channel Group Selection** - Test specific channel categories
-- **⚡ Multi-threaded Testing** - Efficient parallel stream analysis
 - **📈 Quality Analysis** - Extract resolution, FPS, bitrate, and codec data
 - **📋 Multiple Export Formats**:
   - CSV for spreadsheet analysis
