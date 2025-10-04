@@ -37,7 +37,7 @@ A comprehensive Python GUI application for testing and analyzing IPTV stream qua
 ### Required Software
 - **Python 3.7 or higher**
 - **FFmpeg** - Download from [ffmpeg.org](https://ffmpeg.org/download.html)
-  - Windows: Add to system PATH
+  - Windows: Add to .exe folder
   - Linux: `sudo apt-get install ffmpeg` 
   - macOS: `brew install ffmpeg`
 
@@ -48,7 +48,7 @@ A comprehensive Python GUI application for testing and analyzing IPTV stream qua
 ## 🚀 Installation
 
 1. **Clone the repository**
-`git clone https://github.com/yourusername/iptv-stream-tester.git`
+`git clone https://github.com/renny1990/iptvstreamchecker.git`
 `cd iptv-stream-tester`
 
 2. **Install dependencies**
@@ -58,7 +58,7 @@ A comprehensive Python GUI application for testing and analyzing IPTV stream qua
 `ffprobe -version`
 
 4. **Run the application**
-`python iptv_tester.py`
+`python main.py`
 
 ## 📖 Usage Guide
 
@@ -160,7 +160,7 @@ We welcome contributions! Here's how to get started:
 
 - **FFmpeg Team** - For the powerful media analysis tools
 - **Python Community** - For excellent libraries and documentation
-- **NewsGuyTor and sudo-ronmexico** - For the original IPTV checker and the more advanced way of showing data
+- **NewsGuyTor and sudo-ronmexico** - For the original IPTV checker and VBR calculation method
 
 ---
 
