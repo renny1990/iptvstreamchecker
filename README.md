@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macOS-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-GNU%20GPL-blue)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 A comprehensive Python GUI application for testing and analyzing IPTV stream quality. Test multiple channels simultaneously and generate detailed reports with resolution, FPS, bitrate, and codec information.
