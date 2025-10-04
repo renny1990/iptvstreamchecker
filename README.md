@@ -8,7 +8,7 @@
 A comprehensive Python GUI application for testing and analyzing IPTV stream quality. Test multiple channels simultaneously and generate detailed reports with resolution, FPS, bitrate, and codec information.
 
 ![SS1](https://media.discordapp.net/attachments/1344416179829084281/1424036929179222026/image.png?ex=68e27d3d&is=68e12bbd&hm=88aacaa820086d68bc4d108ff73d5814eeb56fb851fe9fe32a8c8d615c13c6a1&=&format=webp&quality=lossless)
-![SS2](https://media.discordapp.net/attachments/1344416179829084281/1424036929871155361/image.png?ex=68e27d3d&is=68e12bbd&hm=359c80c705af387e539b8f6fbfa5c1ccda7c3e02e1ed2d74f7c3dcb9cb398b67&=&format=webp&quality=lossless)
+![SS2](https://media.discordapp.net/attachments/1344416179829084281/1424153152357269564/image.png?ex=68e2e97b&is=68e197fb&hm=fc200af6bda7da9801eda1e74929b535215ce028a5712c1f4577de102c0291d6&=&format=webp&quality=lossless)
 
 ## ✨ Features
 
