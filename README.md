@@ -42,23 +42,23 @@ A comprehensive Python GUI application for testing and analyzing IPTV stream qua
   - macOS: `brew install ffmpeg`
 
 ### Python Dependencies
-pip install requests matplotlib numpy
+`pip install requests matplotlib numpy`
 
 
 ## 🚀 Installation
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/iptv-stream-tester.git
-cd iptv-stream-tester
+`git clone https://github.com/yourusername/iptv-stream-tester.git`
+`cd iptv-stream-tester`
 
 2. **Install dependencies**
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 3. **Verify FFmpeg installation**
-ffprobe -version
+`ffprobe -version`
 
 4. **Run the application**
-python iptv_tester.py
+`python iptv_tester.py`
 
 ## 📖 Usage Guide
 
@@ -147,12 +147,12 @@ We welcome contributions! Here's how to get started:
 
 1. **Fork the repository**
 2. **Create a feature branch**
-git checkout -b feature/amazing-feature
+`git checkout -b feature/amazing-feature`
 3. **Make your changes**
 4. **Commit with descriptive messages**
-git commit -m 'Add amazing feature'
+`git commit -m 'Add amazing feature'`
 5. **Push to your branch**
-git push origin feature/amazing-feature
+`git push origin feature/amazing-feature`
 6. **Open a Pull Request**
 
 
@@ -160,6 +160,7 @@ git push origin feature/amazing-feature
 
 - **FFmpeg Team** - For the powerful media analysis tools
 - **Python Community** - For excellent libraries and documentation
+- **NewsGuyTor and sudo-ronmexico** - For the original IPTV checker and the more advanced way of showing data
 
 ---
 
