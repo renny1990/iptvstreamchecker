@@ -52,7 +52,7 @@ A comprehensive Python GUI application for testing and analyzing IPTV stream qua
 `cd iptv-stream-tester`
 
 2. **Install dependencies**
-`pip install -r requirements.txt`
+`pip install requests matplotlib numpy`
 
 3. **Verify FFmpeg installation**
 `ffprobe -version`
